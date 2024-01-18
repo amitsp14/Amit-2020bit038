@@ -1,0 +1,21 @@
+11.
+
+select contact_name 
+from customers
+left join orders on customers.id = orders.Customer_id;
+
+
+12. 
+
+select customers.Customer_id from 
+
+
+13.
+
+update customers
+set city = 'Mumbai'
+where city = 'Delhi'
+
+
+13.
+
